@@ -1,0 +1,18 @@
+ToDo:
+	Junior
+		[] - Add loaders
+		[] - Friends
+			[] - Firebase users DB
+			[] - Client get friends by id user
+		[] - Add more info in profile
+		[] - Get user profile by query id
+		[] - Profile page access by guest
+		[] - Add functionality for search
+
+	Middle
+		[] - Custom useQuery hook with error, data, loader response
+			const {data, error, isLoading} = useQuery()
+		[] - Fix bugs main page load posts
+		[] - If you want, you can make user statuses
+		[] - Fix bugs with messages (ordering)
+		[] - Make different conversation for two users
